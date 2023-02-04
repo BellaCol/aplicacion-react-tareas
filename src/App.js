@@ -24,6 +24,7 @@ export default App;
 
 
 
+
 /*
 import freeCodeCampLogo from './imagenes/freecodecamp-logo.png';
 <div className='freecodecamp-logo-contenedor'>
