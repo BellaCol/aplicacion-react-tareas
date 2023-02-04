@@ -15,6 +15,7 @@ function Tarea({id, texto, completada, completarTarea, eliminarTarea}){
                <AiOutlineCloseCircle className='tarea-icono' />
             </div>
         </div>
+        
     );
 }
 export default Tarea;
