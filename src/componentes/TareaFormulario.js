@@ -17,6 +17,7 @@ function TareaFormulario(props) {
     }
     props.onSubmite(tareaNueva);
     e.target.reset();
+    setInput("");
   }
   return(
 
